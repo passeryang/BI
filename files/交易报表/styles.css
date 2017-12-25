@@ -19208,13 +19208,20 @@
   position:absolute;
   left:0px;
   top:95px;
+  width:131px;
+  height:268px;
+  overflow:hidden;
 }
 #u3493_state0 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
-  width:140px;
+  width:131px;
   height:268px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u3493_state0_content {
@@ -19797,12 +19804,16 @@
   white-space:nowrap;
 }
 #u3493_state1 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
   width:131px;
-  height:39px;
+  height:268px;
   visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u3493_state1_content {
