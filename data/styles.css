@@ -90,6 +90,8 @@
   text-align:left;
   line-height:28px;
 }
+.table_cell {
+}
 .connector {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
